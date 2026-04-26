@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sakuradevjp.github.io/AudioFixer-notes/sitemap.xml
